@@ -1,0 +1,41 @@
+body {
+    background-color: #27374D;
+    font-family: 'Merriweather', serif;
+    color: #364F6B;
+    line-height: 1.5;
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: rgb(140, 76, 8);
+}
+
+h2 {
+    color: rgb(140, 76, 8);
+}
+
+section {
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+}
+
+figcaption {
+    font-size: 20px;
+}
+
+.imagem-legenda {
+    text-align: center;
+}
+
+.link {
+    color: darkblue;
+}
